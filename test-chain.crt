@@ -1,7 +1,1 @@
------BEGIN CERTIFICATE-----
-content of your domain certificate
------END CERTIFICATE-----
-...
------BEGIN CERTIFICATE-----
-content of any intermediate CA certificate
------END CERTIFICATE-----
+
